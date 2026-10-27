@@ -1,5 +1,5 @@
 Full Stack Developer
-Web Development: HTML, CSS, MySQL, PHP.
+Web Development: HTML, CSS, JS, MySQL, PHP.
 Swimming Coach 
 
 <!---
